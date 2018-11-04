@@ -2,7 +2,7 @@
 
 body {
     background: #e9e9e9;
-    background-image: url('https://c.pxhere.com/photos/59/9d/lego_colors_toys_build_up_disorder_chaos_toy_bricks-1080758.jpg!d');
+    background-image: url('https://c.pxhere.com/photos/56/bf/lego_legomaennchen_males_workers_work_return_periodic_week_clean-1087734.jpg!d');
     background-size: cover;
     padding: 100px;
     font-family: 'Open Sans', sans-serif;
@@ -20,15 +20,15 @@ body:after {
     bottom: 0;
     width: 100%;
     padding: 10px;
-    color: #919191;
-    font-size: 10pt;
+    color: #000;
+    font-size: 50pt;
 }
 
 h1 {
     grid-row-start: 1;
     grid-column-start: 1;
     grid-column-end: 3;
-    color: rgb(104, 85, 57);
+    color: rgb(1, 165, 39);
     font-size: 48pt;
     font-family: 'Playfair Display', sans-serif;
   
